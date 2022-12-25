@@ -1,0 +1,25 @@
+{
+  "name": "orangetrustwebsite",
+  "version": "1.0.0",
+  "description": "User: Ibrahim Farrah",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptnJayce/OrangeTrustWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptnJayce/OrangeTrustWebsite/issues"
+  },
+  "homepage": "https://github.com/CaptnJayce/OrangeTrustWebsite#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}
